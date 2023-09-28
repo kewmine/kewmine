@@ -9,5 +9,5 @@ I am an experimentalist with a security background who likes coding resilient an
 
 _____________________________________________________________________________________________________________________________________________
 
-| <a href="https://github.com/kewmine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kewmine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="noalt" /></a> | <a href="https://github.com/kewmine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kewmine&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kewmine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="noalt" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kewmine&layout=compact&theme=buefy&hide_border=true" /> |
 |-|-|
