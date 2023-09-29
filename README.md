@@ -4,7 +4,7 @@ Heyy,
 
 I am an experimentalist with a security background who likes coding resilient and performant apps in Rust while making the ends look pretty.
 
-| telegram: [kewmine](https://t.me/kewmine)              | blog: [jek1.co](https://jek1.co)       |  ctftime: [kewmine](https://ctftime.org/user/172844 )      |
+| telegram: [kewmine](https://t.me/kewmine)              | blog: [jek1.co](https://jek1.co)       |  ctftime: [172844](https://ctftime.org/user/172844 )      |
 |---------------------------------------------------------|----------------------------------------|---------------------------------------------------------|
 
 _____________________________________________________________________________________________________________________________________________
