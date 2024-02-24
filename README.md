@@ -2,10 +2,10 @@ ________________________________________________________________________________
 Heyy,
 
 
-I am an experimentalist with a security background who likes coding resilient and performant apps in Rust while making the ends look pretty.
+I am an experimentalist with a security background who's obsessed with Rust. 
 
-| blog: [kew.bio](https://kew.bio)    |  ctftime: [172844](https://ctftime.org/user/172844 )    |  telegram: [kewmine](https://t.me/kewmine)    |
-|-------------------------------------|---------------------------------------------------------|-----------------------------------------------|
+| blog: [kew.bio](https://kew.bio)    |  ctftime: [172844](https://ctftime.org/user/172844 )    |  telegram: [kewmine](https://t.me/kewmine)    |  leetcode: [kewmine](https://leetcode.com/kewmine/)  |
+|-------------------------------------|---------------------------------------------------------|-----------------------------------------------|------------------------------------------------------|
 
 _____________________________________________________________________________________________________________________________________________
 
