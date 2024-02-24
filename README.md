@@ -4,7 +4,7 @@ Heyy,
 
 I am an experimentalist with a security background who's obsessed with Rust. 
 
-| blog: [kew.bio](https://kew.bio)    |  ctftime: [172844](https://ctftime.org/user/172844 )    |  telegram: [kewmine](https://t.me/kewmine)    |  leetcode: [kewmine](https://leetcode.com/kewmine/)  |
+| website: [kew.bio](https://kew.bio)    |  ctftime: [172844](https://ctftime.org/user/172844 )    |  telegram: [kewmine](https://t.me/kewmine)    |  leetcode: [kewmine](https://leetcode.com/kewmine/)  |
 |-------------------------------------|---------------------------------------------------------|-----------------------------------------------|------------------------------------------------------|
 
 _____________________________________________________________________________________________________________________________________________
