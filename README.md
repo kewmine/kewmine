@@ -9,7 +9,7 @@ Experimentalist · Sketch Artist · Calisthenics Athlete · Developer
 
 <div align="center" style="padding-top:32px; padding-bottom:32px;">
   <p>
-    I thrive on experimentation, blending code, art, and new ideas to create things that challenge convention.<br>
+    I thrive on experimentation; blending code, art, and new ideas to create things that challenge convention.<br>
     My main tools are chosen for their elegance and power:
   </p>
   <p>
