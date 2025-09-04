@@ -10,11 +10,11 @@ Experimentalist · Sketch Artist · Calisthenics Athlete · Developer
 <div align="center" style="padding-top:32px; padding-bottom:32px;">
   <p>
     I thrive on experimentation; blending code, art, and new ideas to create things that challenge convention.<br>
-    My main tools are chosen for their elegance and power:
+    My work often blends two or more of these technologies:
   </p>
   <p>
-    <a href="https://svelte.dev/">
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="100">
+    <a href="https://kit.svelte.dev/">
+      <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="100">
     </a>
     <a href="https://www.rust-lang.org/">
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="100">
@@ -27,7 +27,7 @@ Experimentalist · Sketch Artist · Calisthenics Athlete · Developer
 
 ---
 
-<h5>CONNECT</h5>
+<h5>SOCIALS</h5>
 
 <p align="center">
   <a href="https://www.instagram.com/kewmine">
