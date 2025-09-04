@@ -10,7 +10,7 @@ Experimentalist · Sketch Artist · Calisthenics Athlete · Developer
 <div align="center" style="padding-top:32px; padding-bottom:32px;">
   <p>
     I thrive on experimentation; blending code, art, and new ideas to create things that challenge convention.<br>
-    My work often blends two or more of these technologies:
+    My work often includes two or more of these technologies:
   </p>
   <p>
     <a href="https://kit.svelte.dev/">
