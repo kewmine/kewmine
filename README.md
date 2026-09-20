@@ -1,45 +1,44 @@
-# kewmine
-
-**Founder @ [Clickswave](https://github.com/clickswave)**  
-Experimentalist · Sketch Artist · Calisthenics Athlete · Developer
-
----
-
-<h5>ABOUT</h5>
-
-<div align="center" style="padding-top:32px; padding-bottom:32px;">
-  <p>
-    I thrive on experimentation; blending code, art, and new ideas to create things that challenge convention.<br>
-    My work often includes two or more of these technologies:
-  </p>
-  <p>
-    <a href="https://kit.svelte.dev/">
-      <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="100">
-    </a>
-    <a href="https://www.rust-lang.org/">
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="100">
-    </a>
-    <a href="https://www.postgresql.org/">
-      <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="100">
-    </a>
-  </p>
-</div>
-
----
-
-<h5>SOCIALS</h5>
+<h1 align="center">Dikshant Chandel</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/kewmine">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
-  </a>
-  <a href="https://signal.me/#eu/OjU_Tq_ZRYY7oqDWEIwwE8J4t1CR4pyM4Z_M8FQv0LyyBPlGzH5EUYssmaIDUE7t">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" height="40">
-  </a>
-  <a href="https://steamcommunity.com/id/kewmi/">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" height="40">
-  </a>
-  <a href="https://www.reddit.com/user/magixer/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40">
-  </a>
+  Software Engineer and Security Researcher<br>
+  I write Rust that holds up, and I break software that doesn't<br>
+  Founder of <a href="https://clickswave.org">Clickswave</a>. Web apps, binaries, reverse engineering.
+</p>
+
+<p align="center">
+  <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black"></a>
+  <a href="https://svelte.dev/docs/kit"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"></a>
+  <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+</p>
+
+---
+
+### Products
+
+**[Crossfyre](https://crossfyre.io)** runs recon and vulnerability workflows across a fleet of nodes in parallel. Pure Rust, no Python glue.
+
+**[SiloCat](https://silo.cat)** encrypts files in the browser. The server only ever holds ciphertext, so there is nothing useful to leak.
+
+### Open source
+
+| | |
+|---|---|
+| **[crossfyre-toolchain](https://github.com/clickswave/crossfyre-toolchain)** | The scanners on their own, in your terminal. It ate voyage and mach. Apache-2.0. |
+| **[silocat](https://github.com/clickswave/silocat)** | silo.cat's source, so you don't have to take my word about the encryption. AGPL-3.0. |
+| **[limeyard](https://github.com/clickswave/limeyard)** | Deliberately vulnerable targets with an answer key, for finding out how bad your scanner really is. MIT. |
+
+### Bugs
+
+I find them in other people's software and report them privately. They get listed here once the vendors ship fixes, which takes however long it takes.
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/kewmine"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4="></a>
+  <a href="https://app.hackthebox.com/public/users/200315"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>
+</p>
+
+<p align="center">
+  Contract work and collaborations: <a href="mailto:team@clickswave.org">team@clickswave.org</a>
 </p>
