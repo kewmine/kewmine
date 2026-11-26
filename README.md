@@ -30,18 +30,17 @@
 
 ### Bugs
 
-I find them in other people's software and report them privately. They get listed here once the vendors ship fixes, which takes however long it takes.
+I find them in other people's software and report them privately. These are the five worst so far, listed once the vendors shipped fixes.
 
-| | |
-|---|---|
-| **[CVE-2026-104626](https://www.cve.org/CVERecord?id=CVE-2026-104626)** | Gitea, Critical 9.0. Cancel your own fork PR run, wait for a maintainer to click Re-run, and the fork's workflow runs on their runners as root without ever being approved. Five of us found it independently. |
-| **[CVE-2026-104633](https://www.cve.org/CVERecord?id=CVE-2026-104633)** | Gitea, Medium 6.5. A migration source reporting a page size of zero sent six download loops round forever. One request took a server from 99MiB to 5.7GB in ninety seconds. |
-| **[CVE-2026-109310](https://www.cve.org/CVERecord?id=CVE-2026-109310)** | SiYuan, Medium 6.5. One GET to the dynamic icon endpoint ran an uncapped template function until the kernel was OOM-killed. No login needed on a default publish service. |
-| **[CVE-2026-117677](https://www.cve.org/CVERecord?id=CVE-2026-117677)** | Gitea, Medium. A Helm chart upload was decompressed and read to the end before the size quota was checked, so a 1MB chart took a server from 105MiB to over 5GB of memory in 17.5 seconds. Shared with two other reporters. |
-| **[CVE-2026-105661](https://www.cve.org/CVERecord?id=CVE-2026-105661)** | Gitea, Medium 5.3. Every anonymous request for an ordinary user's organisation repositories page panicked and wrote a stack trace to the log. Shared with two other reporters. |
-| **[GHSA-4p83-c4wg-59q4](https://github.com/opf/openproject/security/advisories/GHSA-4p83-c4wg-59q4)** | OpenProject, Medium 4.3. A cache shared between viewers served the first one's permissions to everyone after, so the meeting agenda API leaked private work package subjects. No CVE. |
+| | | | |
+|---|---|---|---|
+| **[GHSA-gpcm-8jw9-8fg8](https://github.com/EGroupware/egroupware/security/advisories/GHSA-gpcm-8jw9-8fg8)** | EGroupware | Critical (9.9) | The check in index.php that ties a class to its app never actually ran, so any logged-in user could call admin functions. The database backup one alone reads and restores the whole database, which is administrator in all but name. |
+| **[CVE-2026-104626](https://www.cve.org/CVERecord?id=CVE-2026-104626)** | Gitea | Critical (9.0) | Cancel your own fork PR run, wait for a maintainer to click Re-run, and the fork's workflow runs on their runners as root without ever being approved. Five of us found it independently. |
+| **[GHSA-3jph-gwrv-mf9g](https://github.com/EGroupware/egroupware/security/advisories/GHSA-3jph-gwrv-mf9g)** | EGroupware | High (7.1) | The contact duplicates search built raw SQL from two preferences nobody validated, which walked straight past the fix for CVE-2024-40614. |
+| **[CVE-2026-104633](https://www.cve.org/CVERecord?id=CVE-2026-104633)** | Gitea | Medium (6.5) | A migration source reporting a page size of zero sent six download loops round forever. One request took a server from 99MiB to 5.7GB in ninety seconds. |
+| **[CVE-2026-109310](https://www.cve.org/CVERecord?id=CVE-2026-109310)** | SiYuan | Medium (6.5) | One GET to the dynamic icon endpoint ran an uncapped template function until the kernel was OOM-killed. No login needed on a default publish service. |
 
-The ones still with maintainers are counted at [crossfyre.io/disclosures](https://crossfyre.io/disclosures).
+The rest, and the ones still with maintainers, are at [crossfyre.io/disclosures](https://crossfyre.io/disclosures).
 
 ---
 
